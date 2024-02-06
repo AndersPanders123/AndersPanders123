@@ -1,4 +1,4 @@
-### Hei sjef, hva skal du ha i dag?
+### Halla sjef, hva skal du ha i dag?
 <!--
 **AndersPanders123/AndersPanders123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
