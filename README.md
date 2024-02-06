@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+        <img width=390 height="153px" src="https://streak-stats.demolab.com/?user=VetleViking&theme=transparent" align="right"/>
+    </a>
