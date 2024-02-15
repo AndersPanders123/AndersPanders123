@@ -19,7 +19,7 @@ Here are some ideas to get you started:
         <img width=390 src="github-readme-stats-three-phi-11.vercel.app" align="right"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width=325 src="https://github-readme-stats-three-phi-11.vercel.app/api?show_icons=true&locale=en&theme=transparent&langs_count=20&size_weight=0.5&count_weight=0.5&card_width=325" align="left"/>
+        <img width=325 src="https://github-readme-stats-three-phi-11.vercel.app/api?username=AndersPanders123&show_icons=true&locale=en&theme=transparent&langs_count=20&size_weight=0.5&count_weight=0.5&card_width=325" align="left"/>
 </a>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
         <img width=390 height="153px" src="https://streak-stats.demolab.com/?user=AndersPanders123&theme=transparent" align="right"/>
