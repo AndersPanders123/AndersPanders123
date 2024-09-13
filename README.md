@@ -36,9 +36,7 @@
 <div align="center">
     <img  src="https://komarev.com/ghpvc/?username=AndersPanders123"/>
 </div>
-    <div align="center">
-      <img  src="https://komarev.com/ghpvc/?username=AndersPanders123"/>
-    </div>
+<div>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
         <img width=390 src="https://github-readme-stats-three-phi-11.vercel.app/api?username=anderspanders123&include_all_commits=true&show_icons=true&theme=transparent" align="right"/>
     </a>
@@ -48,6 +46,7 @@
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
         <img width=390 height="153px" src="https://streak-stats.demolab.com/?user=AndersPanders123&theme=transparent" align="right"/>
     </a>
+</div>
 </details>
 
 
