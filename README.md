@@ -24,12 +24,8 @@
     </p>
 </div>
 
-<details>
-<summary><h2><a href="#">&#x200B;</a>✅  Things i Know  ✅</h2></summary>
-</details>
 
 
-<details>
 <summary><h2><a href="#">&#x200B;</a>💲  Stats  💲</h2></summary>
 
     
@@ -47,6 +43,3 @@
         <img width=390 height="153px" src="https://streak-stats.demolab.com/?user=AndersPanders123&theme=transparent" align="right"/>
     </a>
 </div>
-</details>
-
-
