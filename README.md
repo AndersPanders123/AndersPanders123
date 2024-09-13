@@ -1,13 +1,28 @@
+<h1 align="left">
+    Halla sjef, hva skal du ha i dag? 👋🏽
+</h1>    
+ 
+ ###
+
 <div>
-    <h1 align="center">
-        Halla sjef, hva skal du ha i dag? 👋🏽
-    </h1>    
+    <h3>
+        Me, Myself and I
+    </h3>
+    <p>
+        <br>-
+            👑 I'm Anders, I am 18 years old and I live in Norway
+        <br>-
+            🧑‍💻 I'm working at Arribatec Cloud as a Intern, here's a link. https://www.arribatec.com/cloud/
+        <br>-
+            🖥️ Currenty i work at 1st. Line Support
+        <br>-
+            🥋 My free time goes mostly to Martial Arts and Gaming
+        <br>-
+            🥇 In 2023 i won one Gold medal at the National Championsship under JKA Norway 
+        <br>-
+            🥈 In 2024 i won two Silver medals at the National Championsship under JKA Norway
+    </p>
 </div>
- 
- 
-###
-
-
 
 <details>
 <summary><h2><a href="#">&#x200B;</a>✅  Things i Know  ✅</h2></summary>
@@ -15,7 +30,12 @@
 
 
 <details>
-<summary><h2><a href="#">&#x200B;</a>💲  Stats</h2></summary>
+<summary><h2><a href="#">&#x200B;</a>💲  Stats  💲</h2></summary>
+
+    
+<div align="center">
+    <img  src="https://komarev.com/ghpvc/?username=AndersPanders123"/>
+</div>
     <div align="center">
       <img  src="https://komarev.com/ghpvc/?username=AndersPanders123"/>
     </div>
