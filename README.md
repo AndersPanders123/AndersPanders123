@@ -15,10 +15,6 @@
             🧑‍💻 I'm working at Arribatec Cloud as a Intern, here's a link. https://www.arribatec.com/cloud/
         <br>-
             🥋 My free time goes mostly to Martial Arts and Gaming
-        <br>-
-            🥇 In 2023 i won one Gold medal at the National Championsship under JKA Norway 
-        <br>-
-            🥈 In 2024 i won two Silver medals at the National Championsship under JKA Norway
     </p>
 </div>
 
