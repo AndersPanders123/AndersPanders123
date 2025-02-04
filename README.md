@@ -13,8 +13,6 @@
             👑 I'm Anders, I am 18 years old and I live in Norway
         <br>-
             🧑‍💻 I'm working at Arribatec Cloud as a Intern, here's a link. https://www.arribatec.com/cloud/
-        <br>-
-            🥋 My free time goes mostly to Martial Arts and Gaming
     </p>
 </div>
 
